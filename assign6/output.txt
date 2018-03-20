@@ -1,0 +1,8 @@
+0
+-1
+1
+Please enter number A
+3
+Please enter number B
+2
+0
