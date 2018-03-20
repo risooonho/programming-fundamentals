@@ -1,17 +1,19 @@
 Pseucode for Sorting fruits
 
-list_of_fruits
+list_of_fruits <- []
 
-open input_file
+open input_file for reading only
+open output_file for writing
+
 for each line of input_file{
     append word to list_of_fruits
 }
 close input_file
 
-sort list_of_fruits
+sorted_list_of fruits <- sort(list_of_fruits)
 
-open output_file
-for fruit in list_of_fruits{
+for fruit in sorted_list_of_fruits{
     write fruit in output_file
 }
+close input_file
 close output_file
